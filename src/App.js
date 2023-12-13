@@ -1,6 +1,6 @@
 import logo from "./img/max.png";
 import "./App.css";
-
+ 
 function App() {
   return (
     <div className="App">
@@ -9,7 +9,7 @@ function App() {
         <div></div>
         <div>
           <h3>Max Romaniuk</h3>
-          <p>Role: Designer</p>
+          <p>Role: UI Designer</p>
           <img
             style={{ width: "100px", height: "100px" }}
             src={logo}
